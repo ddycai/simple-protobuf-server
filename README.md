@@ -1,6 +1,6 @@
 # Simple Protobuf Server
 
-Base code for a simple server/client that receives and accepts
+Base code for a simple server/client that receives and sends
 [protobufs](https://github.com/google/protobuf).
 
 See
