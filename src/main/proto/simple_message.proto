@@ -1,0 +1,8 @@
+syntax = "proto2";
+package frigidrain;
+
+option java_package = "io.github.frigidrain";
+
+message SimpleMessage {
+    optional string content = 1;
+}
